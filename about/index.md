@@ -11,5 +11,4 @@ Debido a mi interés en estar viendo y analizando día a día las estadísticas 
 
 Me considero una persona alegre, exigente, ordenada, organizada, con ganas de aprender y a la que le encanta trabajar en equipo debido a toda mi trayectoria deportiva.
 
-Si quieres saber más sobre mí, puedes contactar conmigo por [LinkedIn](https://www.linkedin.com/in/arturo-guzm%C3%A1n-solera/) 
-solera/) o por [mail](mailto:arturo_guzman2@hotmail.com).
+Si quieres saber más sobre mí, puedes contactar conmigo por [LinkedIn](https://www.linkedin.com/in/arturo-guzm%C3%A1n-solera/) o por [mail](mailto:arturo_guzman2@hotmail.com).
