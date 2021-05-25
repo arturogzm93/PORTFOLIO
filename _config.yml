@@ -5,7 +5,7 @@ description: "Aquí podrás encontrar todos mis proyectos"
 logo: foto-carnet.jpg
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url: https://arturogzm93.github.io/PORTFOLIO/
+url: https://arturogzm93.github.io/portfolio/
 feed:
   path: atom.xml
 
