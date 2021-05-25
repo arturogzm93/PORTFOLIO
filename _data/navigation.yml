@@ -1,0 +1,12 @@
+# Site navigation links
+
+- title: Portfolio
+  url: /portfolio/
+  image: foto-carnet.jpg
+
+- title: GitHub
+  url: https://github.com/arturogzm93
+  image:
+
+- title: About Me
+  url: /about/
