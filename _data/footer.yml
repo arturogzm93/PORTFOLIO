@@ -1,7 +1,13 @@
 # Footer navigation links
 
+- title: Home
+  url: /
+
 - title: GitHub
   url: https://github.com/arturogzm93
 
 - title: LinkedIn
   url: https://www.linkedin.com/in/arturo-guzm%C3%A1n-solera/
+
+- title: About
+  url: /about/

@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "ARTURO GUZMÁN SOLERA"
+title: "ARTURO GUZMÁN SOLERA "
 description: "Aquí podrás encontrar todos mis proyectos"
 logo: foto-carnet.jpg
-teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
-url: https://arturogzm93.github.io/portfolio/
+teaser: foto-carnet.jpg
+locale: en_US
+url: "https://arturogzm93.github.io/portfolio/"
 feed:
   path: atom.xml
 
@@ -26,14 +26,15 @@ plugins:
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: "Arturo Guzmán"
+  web: 
+  twitter: 
+  bio: 
+  avatar: "foto-carnet.jpg" # 160x160 px image for author byline
   google:
-    ad-client:
-    ad-slot:
-  bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+    plus: "+MichaelRoseDesign"
+    ad-client: "ca-pub-7328585512091257"
+    ad-slot: 3049671934
   disqus-shortname:
 
 
