@@ -13,21 +13,23 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
+  <h2 class="post-title">Pat Gelsinger</h2>
+  <p class="post-excerpt">"Data is the new science. Big data holds the answers"</p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Peter Sondergaard</h2>
+  <p class="post-excerpt">"Information is the oil of the 21st century, and analytics is the combustion engine".</p>
+</div><!-- /.tile -->
+
+<div class="tile">
   <h2 class="post-title">Albert Einstein</h2>
   <p class="post-excerpt">"If you can't explain it simply, you don't understand it well enough".</p>
 </div><!-- /.tile -->
 
-<div class="tile">
-  <h2 class="post-title">William Edwards Deming</h2>
-  <p class="post-excerpt">"In god we trust, all others must bring data".</p>
-</div><!-- /.tile -->
-
-<div class="tile">
-  <h2 class="post-title">Mark Twain</h2>
-  <p class="post-excerpt">"There are lies, damned lies and statistics".</p>
-</div><!-- /.tile -->
-
 </div><!-- /.tiles -->
+
+
 
 
 
