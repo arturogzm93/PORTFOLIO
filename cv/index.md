@@ -1,6 +1,5 @@
 ---
-layout: archive
+layout: cv
 title: CV
 ---
 
-EN DESARROLLO

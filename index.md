@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">William Edwards Deming</h2>
-  <p class="post-excerpt">"Without data, you're just another person with an opinion".</p>
+  <p class="post-excerpt">"Without data, you're just another person with an opinion"</p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -19,12 +19,12 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Peter Sondergaard</h2>
-  <p class="post-excerpt">"Information is the oil of the 21st century, and analytics is the combustion engine".</p>
+  <p class="post-excerpt">"Information is the oil of the 21st century, and analytics is the combustion engine"</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Albert Einstein</h2>
-  <p class="post-excerpt">"If you can't explain it simply, you don't understand it well enough".</p>
+  <p class="post-excerpt">"If you can't explain it simply, you don't understand it well enough"</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
