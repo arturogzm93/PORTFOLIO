@@ -6,7 +6,9 @@
 
 - title: GitHub
   url: https://github.com/arturogzm93
-  image:
 
 - title: About Me
   url: /about/
+
+- title: CV
+  url: /cv/

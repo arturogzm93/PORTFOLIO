@@ -10,15 +10,16 @@ image:
 
 Esta librería ha sido diseñada para optimizar los primeros pasos de un proyecto de Data Science. Contiene funciones que simplifican la limpieza y visualización de datos.
 
-EN CONSTRUCCION
+
+EN DESARROLLO
 
 #### SOBRE EL PROYECTO
 
 Para utilizar esta librería se requiere tener instaladas las siguientes librerías: `numpy`, `pandas`, `matplotlib`, `seaborn`, `plotly`, `scipy` y `scikit-learn`.
 
-Para llevar a cabo la instalación de esta biblioteca hay que abrir la consola y escribir: `pip install pythoneer`.
+Para llevar a cabo su instalación, hay que abrir la consola y escribir el siguiente comando: `pip install pythoneer`.
 
-El código del proyecto se pueden ver accediendo a este [repositorio](https://github.com/javapagar/lib_pythoneers).
+El código y las funciones de este proyecto/librería se pueden ver accediendo a este [repositorio](https://github.com/javapagar/lib_pythoneers).
 
 #### AUTORES
 
