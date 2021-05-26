@@ -2,7 +2,7 @@
 layout: article
 title: "Predicción de accidentes cerebrovasculares"
 categories: portfolio
-excerpt: "Proyecto de Machine Leraning para intentar predecir accidentes cerebrovasculares"
+excerpt: "Proyecto de Machine Learning para intentar predecir accidentes cerebrovasculares"
 image:
   teaser: stroke-prediction.jpg
 ---
@@ -73,4 +73,4 @@ Se ha hecho uso de las librerías de `numpy` y `pandas` para el tratamiento de l
 
 La base de datos se ha obtenido en la web de Kaggle, desde el siguiente [enlace](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset).
 
-Todas las gráficas y el código del proyecto se pueden ver accediendo a este [repositorio](https://github.com/arturogzm93/ML-Stroke-Prediction).
+El código del proyecto se pueden ver accediendo a este [repositorio](https://github.com/arturogzm93/ML-Stroke-Prediction).
